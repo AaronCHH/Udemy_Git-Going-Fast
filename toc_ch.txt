@@ -1,0 +1,6 @@
+Ch01_Course_Introduction_and_Overview
+Ch02_Setup_and_Configuration
+Ch03_Working_with_Git_Locally
+Ch04_Going_Remote
+Ch05_Updates_and_Errata
+Ch06_Conclusion
