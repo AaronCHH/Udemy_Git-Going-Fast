@@ -15,12 +15,18 @@
 
 ### 5. Setup Overview  
   * Git For Windows dowlnoad (git-scm. com)    
+
 ### 6. Installing Git for Windows  
+
 ### 7. Installing Git on a Mac via the Command Line  
+
 ### 8. Gitting Help  
+
 ### 9. Help Commands  
-<img src="img/fig2_9.png" alt="">
+<img src="img/fig2_9.png" alt="">  
+
 ### 10. Git Configuration  
+
 ### 11. Configuration Commands  
-<img src="img/fig2_11.png" alt="">
+<img src="img/fig2_11.png" alt="">  
   * 測驗2_Setup and Configuration  
