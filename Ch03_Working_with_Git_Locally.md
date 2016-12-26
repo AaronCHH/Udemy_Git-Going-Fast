@@ -26,7 +26,7 @@
     * http://www.initializr.com/
 
 ### 14. Starting Commands  
-<img src="img/fig3_14.png" alt="">
+<img src="/img/fig3_14.png" alt="">
 
 ### 15. The First Commit  
   * Git Workflow Wd  
@@ -34,7 +34,7 @@
   * Git Workflow Commit  
 
 ### 16. First Commit Commands  
-<img src="img/fig3_16.png" alt="">
+<img src="/img/fig3_16.png" alt="">
 
 ### 17. Working Locally, Part 1  
   * Hipster Ipsum Website (hipsum. co)  
@@ -42,7 +42,7 @@
 ### 18. Working Locally, Part 2  
 
 ### 19. Working Locally Commands  
-<img src="img/fig3_19.png" alt="">
+<img src="/img/fig3_19.png" alt="">
 
 ### 20. Gitting Historical  
 ### 21. Removing Files  
