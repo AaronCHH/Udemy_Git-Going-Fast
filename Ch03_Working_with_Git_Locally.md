@@ -18,6 +18,10 @@
 	- [17. Working Locally, Part 1](#17-working-locally-part-1)
 	- [18. Working Locally, Part 2](#18-working-locally-part-2)
 	- [19. Working Locally Commands](#19-working-locally-commands)
+		- [Git Working Locally Commands](#git-working-locally-commands)
+			- [Lecture Command Listing - Working Locally, Part One](#lecture-command-listing-working-locally-part-one)
+			- [Lecture Command Listing - Working Locally, Part Two](#lecture-command-listing-working-locally-part-two)
+			- [Command Reference](#command-reference-2)
 	- [20. Gitting Historical](#20-gitting-historical)
 	- [21. Removing Files](#21-removing-files)
 	- [22. Moving Files](#22-moving-files)
@@ -28,7 +32,7 @@
 			- [Lecture Command Listing -- Removing Files](#lecture-command-listing-removing-files)
 			- [Lecture Command Listing -- Moving Files](#lecture-command-listing-moving-files)
 			- [Lecture Command Listing -- Ignoring Files](#lecture-command-listing-ignoring-files)
-			- [Command Reference](#command-reference-2)
+			- [Command Reference](#command-reference-3)
 
 <!-- tocstop -->
 
@@ -133,7 +137,7 @@ Git Add
 git add file-name
 ```
 
-Adds the new or newly modified_file-name_to Git's staging area \(index\).
+Adds the new or newly modified _file-name_ to Git's staging area \(index\).
 
 Git Commit
 
@@ -167,7 +171,100 @@ All command line demos are preformed on the MacOS. Creating and editing files is
 ### 18. Working Locally, Part 2  
 
 ### 19. Working Locally Commands  
-<img src="/img/fig3_19.png" alt="">
+
+---
+#### Git Working Locally Commands
+
+##### Lecture Command Listing - Working Locally, Part One
+
+```
+pwd
+git status
+mate README.md
+git status
+git add README.md
+git status
+git commit -m "Adding some ipsum"
+clear
+git status
+mate README.md
+git status
+git commit -am "Adding more ipsum"
+git status
+```
+
+##### Lecture Command Listing - Working Locally, Part Two
+```
+pwd
+git status
+clear
+mate index.html
+git status
+git add index.html
+git status
+mate README.md
+git status
+clear
+git status
+git add README.md
+git status
+git commit -m "A few changes for the website"
+clear
+mate README.md
+mate index.html
+git status
+git add .
+git status
+git commit -m "A few more changes for website"
+clear
+mate README.md
+git status
+git add README.md
+git status
+git reset HEAD README.md
+clear
+git status
+mate README.md
+git checkout -- README.md
+mate README.md
+git status
+```
+
+##### Command Reference
+
+Express Commit for Tracked files
+
+```
+git commit -am "Awesome commit message"
+```
+
+Use the_-a_parameter with the**git commit**command to directly commit newly modified tracked files.Warning:Only do this for small changes. Tracked files are files that have been previously added to Git \(committed or staged\).
+
+Adding All Changed Files
+
+```
+git add .
+```
+
+The period parameter for the git add command will recursively add all new and newly modified files.
+
+Unstage File
+
+```
+git reset HEAD file-name
+```
+
+Following the above command will "unstage" the specified file from Git's staging area \(aka index\).
+
+Backout Working Directory Changes
+
+```
+git checkout --file-name
+```
+
+Following the above command will back out any changes made to the specified file and replace it with the version last committed in Git
+
+---
 
 ### 20. Gitting Historical  
 ### 21. Removing Files  
@@ -267,15 +364,13 @@ Git log options from above: --oneline Compacts log data on to one line, abbrevia
 Removing a file using Git
 
 ```
-git rm
-file-name
+git rm file-name
 ```
 
 Removing a file using Terminal
 
 ```
-rm
-file-name
+rm file-name
 ```
 
 This removes the file outside Git's knowledge
@@ -284,7 +379,6 @@ Updating Git's Index \(staging area\)
 
 ```
 git add -u
-
 ```
 
 The_-u_parameter will recursively update Git's staging area regarding deleted/moved files outside of Git.
@@ -292,8 +386,7 @@ The_-u_parameter will recursively update Git's staging area regarding deleted/mo
 Making a directory \(folder\)
 
 ```
-mkdir
-folder-name
+mkdir folder-name
 ```
 
 The**mkdir**command is a nearly universal command for creating a directory/folder.
@@ -301,9 +394,7 @@ The**mkdir**command is a nearly universal command for creating a directory/folde
 Making a directory \(folder\)
 
 ```
-git mv
-source
-destination
+git mv source destination
 ```
 
 The **git mv** command will move the_source_\(file or folder\) to the_destination_with Git.
