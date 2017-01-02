@@ -1,3 +1,5 @@
+[Udemy](https://www.udemy.com/git-going-fast/learn/v4/overview)  
+
 ## Ch01_Course Introduction and Overview
 1. Promo Video  
 2. Introduction  
