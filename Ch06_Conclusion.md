@@ -9,7 +9,7 @@
 		- [New Courses and Discounts on Other Courses](#new-courses-and-discounts-on-other-courses)
 		- [GitHub Ultimate: Master Git and GitHub - Beginner to Expert: only $15 \(50% off\)](#github-ultimate-master-git-and-github-beginner-to-experthttpswwwudemycomgithub-ultimatecouponcodepc_students-only-15-50-off)
 		- [Vagrant Quick Start: only $10 \(50% off\)](#vagrant-quick-starthttpswwwudemycomvagrant-quick-startcouponcodepc_students-only-10-50-off)
-		- [Git for Geeks: Quick Git Training for Developersonly $10 \(50% off\)](#git-for-geeks-quick-git-training-for-developershttpswwwudemycomgit-for-geekscouponcodepc_studentsonly-10-50-off)
+		- [Git for Geeks: Quick Git Training for Developers only $10 \(50% off\)](#git-for-geeks-quick-git-training-for-developershttpswwwudemycomgit-for-geekscouponcodepc_students-only-10-50-off)
 		- [Discounts for Existing Students -- 50% off all Courses](#discounts-for-existing-students-50-off-all-courses)
 		- [Course Descriptions](#course-descriptions)
 
@@ -24,11 +24,11 @@
 
 #### New Courses and Discounts on Other Courses  
 
-Congrats on making it to the end of this course. If you enjoyed my style of teaching, try out some of my other courses with an exclusive discount for my existing students -- use use coupon code**PC\_STUDENTS**with any of my other courses.
+Congrats on making it to the end of this course. If you enjoyed my style of teaching, try out some of my other courses with an exclusive discount for my existing students -- use use coupon code **PC\_STUDENTS** with any of my other courses.
 
 #### [GitHub Ultimate: Master Git and GitHub - Beginner to Expert](https://www.udemy.com/github-ultimate/?couponCode=PC_STUDENTS): only $15 \(50% off\)
 
-My newest course is called[GitHub Ultimate: Master Git and GitHub](https://www.udemy.com/github-ultimate/?couponCode=PC_STUDENTS)and it covers both Git and GitHub, but mainly focuses on the many features offered by the GitHub service. This comprehensive course will give anyone using Git an excellent head-start using the most popular Git hosting provider available. In my other courses on Git, I focus on Git and use GitHub simply to host Git repositories. This course really covers GitHub in-depth on its own -- including several features not directly related to Git or source control.
+My newest course is called [GitHub Ultimate: Master Git and GitHub](https://www.udemy.com/github-ultimate/?couponCode=PC_STUDENTS) and it covers both Git and GitHub, but mainly focuses on the many features offered by the GitHub service. This comprehensive course will give anyone using Git an excellent head-start using the most popular Git hosting provider available. In my other courses on Git, I focus on Git and use GitHub simply to host Git repositories. This course really covers GitHub in-depth on its own -- including several features not directly related to Git or source control.
 
 Here are some of the critical skills anyone using GitHub should know:
 
@@ -45,19 +45,19 @@ Here are some of the critical skills anyone using GitHub should know:
 
 The course is about 6 hours long, which the first two hours are focused on Git, the next three are GitHub and the final hour is bonus content. And that's not all, I'm adding to this course over the next few months with other GitHub related topics like large file support and GitHub for Windows client -- I'll send out a course announcement when those sections are ready.
 
-Join[**GitHub Ultimate**](https://www.udemy.com/github-ultimate/?couponCode=PC_STUDENTS)for_only_**$15**with coupon code**PC\_STUDENTS**.
+Join [**GitHub Ultimate**](https://www.udemy.com/github-ultimate/?couponCode=PC_STUDENTS) for_only_**$15**with coupon code**PC\_STUDENTS**.
 
 #### [Vagrant Quick Start](https://www.udemy.com/vagrant-quick-start/?couponCode=PC_STUDENTS): only $10 \(50% off\)
 
 Vagrant is a tool used to manage virtual machines for development systems and can be scripted to automatically install and update software running on those VMs. In the Vagrant Quick Start, I provide an introduction to Vagrant, cover all the main concepts any developer needs to know to get started.
 
-#### [Git for Geeks: Quick Git Training for Developers](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS)only $10 \(50% off\)
+#### [Git for Geeks: Quick Git Training for Developers](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS) only $10 \(50% off\)
 
 My latest course was just released:[**Git for Geeks: Quick Git Training for Developers**](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS)where I cover the most important parts of Git source control system in just a few hours. This course is designed for experienced developers or software engineers that just happen to be unfamiliar with Git. The course assumes some experience in other source control tools and a reasonable comfort level with the command line.
 
-In[**Git for Geeks**](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS), in addition to covering all the basics, I cover advanced topics like branching, merging, conflict resolution, and even a bit of time travel \(reset/reflog\). At the end, the course introduces the two most popular remote Git repository services:_GitHub_and_BitBucket_.
+In [**Git for Geeks**](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS), in addition to covering all the basics, I cover advanced topics like branching, merging, conflict resolution, and even a bit of time travel \(reset/reflog\). At the end, the course introduces the two most popular remote Git repository services:_GitHub_and_BitBucket_.
 
-Join[**Git for Geeks**](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS)for_only_**$10**with coupon code**PC\_STUDENTS**.
+Join [**Git for Geeks**](https://www.udemy.com/git-for-geeks/?couponCode=PC_STUDENTS) for _only_ **$10** with coupon code **PC\_STUDENTS**.
 
 #### Discounts for Existing Students -- 50% off all Courses
 
